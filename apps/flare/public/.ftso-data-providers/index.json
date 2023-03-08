@@ -1,0 +1,154 @@
+[
+	{
+		"chainId": 19,
+		"name": "LoveFTSO",
+		"description": "Scalable and reliable signal provider to the Songbird Network in Singapore",
+		"url": "https://loveftso.com",
+		"address": "0x2602f6456287A167B0214c3dbe8b4162f0Ec5409",
+		"logoURI": "https://raw.githubusercontent.com/ivy-oracle/web/dev/public/.ftso-data-providers/logos/0x2602f6456287A167B0214c3dbe8b4162f0Ec5409.png"
+	},
+	{
+		"chainId": 14,
+		"name": "LoveFTSO",
+		"description": "Scalable and reliable signal provider to the Flare Network in Singapore",
+		"url": "https://loveftso.com",
+		"address": "0xbeC604772722fe2E7A2a7b96339fFA71CeaBF4e7",
+		"logoURI": "https://raw.githubusercontent.com/ivy-oracle/web/dev/public/.ftso-data-providers/logos/0xbeC604772722fe2E7A2a7b96339fFA71CeaBF4e7.png"
+	},
+	{
+		"chainId": 19,
+		"name": "Sigma Oracle",
+		"description": "Sigma Oracle is providing data to the Songbird network. Sigma Oracle is a passive income personal project.",
+		"url": "https://erikmr.com",
+		"address": "0x0A90265aff98cA7146F42422f2Ef46545867bA27",
+		"logoURI": "https://raw.githubusercontent.com/ivy-oracle/web/dev/public/.ftso-data-providers/logos/0x0A90265aff98cA7146F42422f2Ef46545867bA27.png"
+	},
+	{
+		"chainId": 19,
+		"name": "tSovereign",
+		"description": "Data provider for the Songbird/Flare network assisting users in obtaining sovereignty over their delegated assets.",
+		"url": "https://tsovereign.xyz",
+		"address": "0x66064b9755Ff3C26C380bE0FbE7F38dF6222BA15",
+		"logoURI": "https://raw.githubusercontent.com/ivy-oracle/web/dev/public/.ftso-data-providers/logos/0x66064b9755Ff3C26C380bE0FbE7F38dF6222BA15.png"
+	},
+	{
+		"chainId": 14,
+		"name": "tSovereign",
+		"description": "Data provider for the Songbird/Flare network assisting users in obtaining sovereignty over their delegated assets.",
+		"url": "https://tsovereign.xyz",
+		"address": "0x693C74E3f72E8ba4B6382FD9ea1eD120b62D97d4",
+		"logoURI": "https://raw.githubusercontent.com/ivy-oracle/web/dev/public/.ftso-data-providers/logos/0x693C74E3f72E8ba4B6382FD9ea1eD120b62D97d4.png"
+	},
+	{
+		"chainId": 19,
+		"name": "FLR Labs",
+		"description": "",
+		"url": "https://flrlabs.com",
+		"address": "0x43F0a819DCCddEb05A282c78027873aB5Be35cf5",
+		"logoURI": "https://raw.githubusercontent.com/ivy-oracle/web/dev/public/.ftso-data-providers/logos/0x43F0a819DCCddEb05A282c78027873aB5Be35cf5.jpeg"
+	},
+	{
+		"chainId": 14,
+		"name": "FLR Labs",
+		"description": "",
+		"url": "https://flrlabs.com",
+		"address": "0x14b424Bc9E9B8091A40384ff3d8F0C3DfC1a2879",
+		"logoURI": "https://raw.githubusercontent.com/ivy-oracle/web/dev/public/.ftso-data-providers/logos/0x14b424Bc9E9B8091A40384ff3d8F0C3DfC1a2879.jpeg"
+	},
+	{
+		"chainId": 14,
+		"name": "Best FTSO",
+		"description": "Our goal is to offer users the most value for their delegation. Come check out our NFT club and earn more than just FLR rewards!",
+		"url": "https://bestftso.xyz",
+		"address": "0x510Da05b7bf9d7713752da662AEdb26770F30d19",
+		"logoURI": "https://raw.githubusercontent.com/ivy-oracle/web/dev/public/.ftso-data-providers/logos/0x510Da05b7bf9d7713752da662AEdb26770F30d19.png"
+	},
+	{
+		"chainId": 14,
+		"name": "Poseidon FTSO",
+		"description": "Poseidon FTSO is an FTSO on Songbird and Flare mainnet. We provide ourself in operating a functional FTSO which plays by the rules. We aim to build a robust FTSO which will help enhance the Flare ecosystem.",
+		"url": "https://poseidon-ftso.com",
+		"address": "0x02a256FF137D680aC591f1959D64a8669006c95c",
+		"logoURI": "https://raw.githubusercontent.com/ivy-oracle/web/dev/public/.ftso-data-providers/logos/0x02a256FF137D680aC591f1959D64a8669006c95c.png"
+	},
+	{
+		"chainId": 19,
+		"name": "Poseidon FTSO",
+		"description": "Poseidon FTSO is an FTSO on Songbird and Flare mainnet. We provide ourself in operating a functional FTSO which plays by the rules. We aim to build a robust FTSO which will help enhance the Flare ecosystem.",
+		"url": "https://poseidon-ftso.com",
+		"address": "0x8d5Ddf992D582AFA3b2062d56a7ffB8028AB59a2",
+		"logoURI": "https://raw.githubusercontent.com/ivy-oracle/web/dev/public/.ftso-data-providers/logos/0x8d5Ddf992D582AFA3b2062d56a7ffB8028AB59a2.png"
+	},
+	{
+		"chainId": 19,
+		"name": "Animalove FTSO",
+		"description": "The Animalove official SGB/Flare data provider",
+		"url": "https://animalove.art",
+		"address": "0x9a434D1C354e7ffD98CA91ACEDa10f40228eC3D2",
+		"logoURI": "https://raw.githubusercontent.com/ivy-oracle/web/dev/public/.ftso-data-providers/logos/0x9a434D1C354e7ffD98CA91ACEDa10f40228eC3D2.png"
+	},
+	{
+		"chainId": 14,
+		"name": "Legacy sToadz FTSO",
+		"description": "Legacy sToadz address that will be de-listed shortly.",
+		"url": "N/A",
+		"address": "0xf9D68721929eF5811fcBbBc7C77ea897dCc8bB05",
+		"logoURI": "https://cdn.flaremetrics.io/flare/ftso/emblem/unknown@64.png"
+	},
+	{
+		"chainId": 19,
+		"name": "Legacy sToadz FTSO",
+		"description": "Legacy sToadz address that will be de-listed shortly.",
+		"url": "N/A",
+		"address": "0x879Fb0b354733674FD403286eBb2eB17EF97E5Ae",
+		"logoURI": "https://cdn.flaremetrics.io/flare/ftso/emblem/unknown@64.png"
+	},
+	{
+		"chainId": 19,
+		"name": "FTSO AU",
+		"description": "FTSO AU provide accurate and reliable price feeds to the Flare Network and a transparent, incentivised, risk-free delegation service. We do so by leveraging the distributed nature of the network and its participants.",
+		"url": "https://ftso.au",
+		"address": "0x499017ADB21D6f70480E4E6224cf4144071C1461",
+		"logoURI": "https://raw.githubusercontent.com/ivy-oracle/web/dev/public/.ftso-data-providers/logos/0x499017ADB21D6f70480E4E6224cf4144071C1461.png"
+	},
+	{
+		"chainId": 14,
+		"name": "FTSO AU",
+		"description": "FTSO AU provide accurate and reliable price feeds to the Flare Network and a transparent, incentivised, risk-free delegation service. We do so by leveraging the distributed nature of the network and its participants.",
+		"url": "https://ftso.au",
+		"address": "0x4990320858AE3528B645C60059281a66C3488888",
+		"logoURI": "https://raw.githubusercontent.com/ivy-oracle/web/dev/public/.ftso-data-providers/logos/0x4990320858AE3528B645C60059281a66C3488888.png"
+	},
+	{
+		"chainId": 19,
+		"name": "O1 FTSO",
+		"description": "O1 FTSO is an open-minded data signals provider looking for a great partnership on the Flare and Songbird Network.",
+		"url": "https://o1ftso.com",
+		"address": "0x229458A754CD1aeBa8A0c87f59E22777D593B85a",
+		"logoURI": "https://raw.githubusercontent.com/ivy-oracle/web/dev/public/.ftso-data-providers/logos/0x229458A754CD1aeBa8A0c87f59E22777D593B85a.png"
+	},
+	{
+		"chainId": 14,
+		"name": "O1 FTSO",
+		"description": "O1 FTSO is an open-minded data signals provider looking for a great partnership on the Flare and Songbird Network.",
+		"url": "https://o1ftso.com",
+		"address": "0xBE304C28F3a050486b9733AE56cB5541B16c007B",
+		"logoURI": "https://raw.githubusercontent.com/ivy-oracle/web/dev/public/.ftso-data-providers/logos/0xBE304C28F3a050486b9733AE56cB5541B16c007B.png"
+	},
+	{
+		"chainId": 19,
+		"name": "Sirius FTSO",
+		"description": "Sirius FTSO is a provider of algorithms that run on the Flare network to give you the best price feeds.",
+		"url": "https://siriusftso.com",
+		"address": "0x14f17A0B6dEf7eCfc4F807904C27842b556d42be",
+		"logoURI": "https://raw.githubusercontent.com/ivy-oracle/web/dev/public/.ftso-data-providers/logos/0xAd5E40Ff92B083c657d27eCc1c629256e0Af0eD8.png"
+	},
+	{
+		"chainId": 14,
+		"name": "Sirius FTSO",
+		"description": "Sirius FTSO is a provider of algorithms that run on the Flare network to give you the best price feeds.",
+		"url": "https://siriusftso.com",
+		"address": "0xAd5E40Ff92B083c657d27eCc1c629256e0Af0eD8",
+		"logoURI": "https://raw.githubusercontent.com/ivy-oracle/web/dev/public/.ftso-data-providers/logos/0xAd5E40Ff92B083c657d27eCc1c629256e0Af0eD8.png"
+	}
+]
