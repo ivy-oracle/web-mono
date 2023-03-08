@@ -3,7 +3,8 @@ import React, { useState } from "react";
 import { FaBars } from "react-icons/fa";
 
 export interface MenuItem {
-  path: string;
+  path?: string;
+  onClick?: () => void;
   label: string;
   Icon: React.ElementType;
 }
@@ -62,7 +63,7 @@ const Navbar = ({
           <ul className="flex flex-col lg:flex-row list-none mr-auto">
             {menuItems.map((menuItem) => (
               <li key={menuItem.path} className="flex items-center">
-                <a href={menuItem.path}>
+                <a href={menuItem.path} onClick={menuItem.onClick}>
                   <div
                     className={
                       (transparent
