@@ -1,5 +1,5 @@
-import { Button, Layout, Navbar } from "@ivyoracle/ui";
-import "./App.css";
+import { Layout, Navbar } from "@ivyoracle/ui";
+import { FaHome } from "react-icons/fa";
 
 const Header = () => (
   <Navbar
@@ -7,8 +7,8 @@ const Header = () => (
     menuItems={[
       {
         path: "/",
-        label: "Example",
-        Icon: () => <div>A</div>,
+        label: "Home",
+        Icon: FaHome,
       },
     ]}
   ></Navbar>
@@ -20,9 +20,7 @@ const App = () => {
   return (
     <div>
       <Layout Header={Header} Footer={Footer}>
-        <Button onClick={() => console.log("hello world")} loading={true}>
-          Hello World
-        </Button>
+        Cardano
       </Layout>
     </div>
   );

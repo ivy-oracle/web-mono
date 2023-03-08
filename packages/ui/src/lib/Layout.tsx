@@ -76,7 +76,9 @@ const Layout = ({
             ></polygon>
           </svg>
         </div>
-        <div className="relative">{children}</div>
+        <div className="relative">
+          <div className="m-5 lg:m-10 mb-40">{children}</div>
+        </div>
       </main>
       <Footer />
     </div>

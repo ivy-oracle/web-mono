@@ -1,5 +1,6 @@
 import classNames from "classnames";
 import React, { useState } from "react";
+import { FaBars } from "react-icons/fa";
 
 export interface MenuItem {
   path: string;
@@ -8,9 +9,9 @@ export interface MenuItem {
 }
 
 export interface NavbarProps {
-  brandName: string;
-  brandLink: string;
-  transparent: boolean;
+  brandName?: string;
+  brandLink?: string;
+  transparent?: boolean;
   menuItems: MenuItem[];
 }
 
@@ -46,11 +47,9 @@ const Navbar = ({
             type="button"
             onClick={() => setNavbarOpen(!navbarOpen)}
           >
-            <i
-              className={
-                (transparent ? "text-white" : "text-gray-800") + " fas fa-bars"
-              }
-            ></i>
+            <FaBars
+              className={transparent ? "text-white" : "text-gray-800"}
+            ></FaBars>
           </button>
         </div>
         <div
