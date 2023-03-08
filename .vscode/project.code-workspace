@@ -1,0 +1,27 @@
+{
+  "folders": [
+    {
+      "name": "web-mono",
+      "path": "../"
+    },
+    {
+      "name": "@ivyoracle/ui",
+      "path": "../packages/ui"
+    },
+    {
+      "name": "@ivyoracle/cardano",
+      "path": "../apps/cardano"
+    },
+    {
+      "name": "@ivyoracle/flare",
+      "path": "../apps/flare"
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "node_modules/": true,
+      "packages/": true,
+      "apps/": true
+    }
+  }
+}

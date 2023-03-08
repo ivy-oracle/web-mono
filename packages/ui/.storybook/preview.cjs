@@ -1,4 +1,5 @@
 import "../src/index.css";
+import "tailwindcss/tailwind.css";
 import * as jest from "jest-mock";
 window.jest = jest;
 
